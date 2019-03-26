@@ -2,10 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Our mission 
+title: Collaboration
 description: |
 ---
-Make augmented technology be accessible.
-To Everyone.
-To Everywhere.
 

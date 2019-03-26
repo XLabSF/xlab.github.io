@@ -2,9 +2,8 @@
 layout: default
 img: dog.png
 category: Services
-title: Philosophy
+title: A learning organization
 description: |
 ---
-Compassion.
-Collaboration.
-Knowledge.
+Never stop trying and we learn from mistake.
+

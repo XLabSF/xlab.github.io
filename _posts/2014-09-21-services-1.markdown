@@ -2,10 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: About
+title: Our approach 
 description: |
 ---
-  Human.
-  Design.
-  Tech.
+  Apply design thinking to deliver solutions served your needs.
 
