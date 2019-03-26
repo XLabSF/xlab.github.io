@@ -22,12 +22,12 @@ h6 {
 }
 
 .lead {
-    font-size: 18px;
+    font-size: 30px;
     font-weight: 400;
 }
 
 .intro-header {
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 70px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
@@ -106,7 +106,7 @@ h6 {
 .section-heading-spacer {
     float: left;
     width: 200px;
-    border-top: 3px solid #e7e7e7;
+    border-top: 50px solid #e7e7e7;
 }
 
 .banner {
@@ -140,7 +140,7 @@ h6 {
 
 @media(max-width:767px) {
     .banner h2 {
-        margin: 0;
+        margin: 30;
         text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
         font-size: 3em;
     }
