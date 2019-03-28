@@ -2,8 +2,8 @@
 layout: default
 img: dog.png
 category: Services
-title: A learning organization
-description: |
+title: Always learning
+description:
 ---
-Never stop trying and we learn from mistake.
-
+Never stop trying and learn from mistakes.
+And we share.

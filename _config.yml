@@ -3,15 +3,15 @@
 # ----------------------- #
 
 url: xlabsf.github.io
-title: Xlab 
+title: Xlab
 email: xlab.contact@gmail.com
-author: Accessible. Smart. People.
+author: Xlab
 description: > # "A tech + design company
   You can edit this line in _config.yml. It will appear in your document
   head meta (for Google search results) and in your feed.xml site
   description.
 copyright: 'Copyright &copy; 2019 Xlab . All Rights Reserved.'
-credits: 'Credits: Template Created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.and <a href="http://freepik.com">'
+credits: 'Credits <a href="http://startbootstrap.com/">Start Bootstrap </a> and <a href="http://freepik.com"> Freepik </a>'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -31,6 +31,6 @@ social:
   - title: github
     url: https://github.com/xlab-sf
   - title: facebook
-    url: https://
+    url: https://www.facebook.com/Xlab-2365741440349177/
   # - title: linkedin
   #   url:

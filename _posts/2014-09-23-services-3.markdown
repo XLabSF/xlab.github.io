@@ -2,7 +2,6 @@
 layout: default
 img: phones.png
 category: Services
-title: Collaboration
-description: |
+title: Our collaboration
+description:
 ---
-
